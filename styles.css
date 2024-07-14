@@ -41,8 +41,8 @@
  margin-left: 48px;
 }
 
-#signup1{
-    border-radius: 25px;
+.signup{
+    border-radius: 10px;
     background: #3882F6;
     width: 150px;
     height: 45px;
@@ -123,3 +123,40 @@
 }
 
  /* Third segment CSS code, not much to do here. */
+
+ #BlueBox{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    max-width: 80%;
+    margin: auto;
+    padding-left: 8%;
+    padding-right: 8%;
+    border-radius: 9px;
+ }
+
+ #Button2{
+   border: 3px solid #E5E7EB;
+   margin-left: 77%;
+   position: absolute;
+   color:#E5E7EB;
+   font-size: 20px;
+   margin-top: 57px;
+ }
+
+ /* this SINGLE element has been the 
+ bane of my existence for a long while! */
+
+ .Text1{
+    padding-top: 50px;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: -5px;
+ }
+
+ .Text2{
+    font-size: 26px;
+    margin: 0px;
+    margin-bottom: 25px;
+    padding-bottom: 50px;
+ }
+ 
