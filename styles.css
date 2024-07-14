@@ -102,3 +102,24 @@
 }
 
 /* Second segment CSS code, it just works. */
+
+#QuoteSection{
+    background-color: #E5E7EB;
+}
+
+#Quote{
+    font-size: 36px;
+    color: #1F2937;
+    padding-top: 125px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#Person{
+  font-size: 26px;
+  padding-bottom: 100px;
+  margin-left: 59%;
+  margin-top: -3%
+}
+
+ /* Third segment CSS code, not much to do here. */
